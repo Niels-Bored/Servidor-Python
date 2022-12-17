@@ -1,0 +1,6 @@
+{
+    "db_server": "localhost",
+    "db_name": "findurpet",
+    "db_user": "root", 
+    "db_password": ""
+}

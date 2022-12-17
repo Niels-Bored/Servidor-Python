@@ -1,0 +1,6 @@
+1| Firulais| Chihuahua| Café| 2| Perro chiquito y manso| 1
+2| Michi| Abisinio| Gris| 1| Gatito bebé| 2
+4| Bola| Pastor Alemán| Color| 0| Perro bonito| 3
+6| Prueba2| Raza| C0l0r| 0| Perro de prueba| 2
+7| Gunter| Beagle| Negro| 3| Perrito| 3
+8| Prueba2| Raza| C0l0r| 0| Perro de prueba| 2

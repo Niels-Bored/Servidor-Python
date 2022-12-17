@@ -1,0 +1,6 @@
+1| Abel| Soto| Valdez| +524492635294| abelsotovaldez@gmail.com| Calle Prueba| Colonia De Prueba| 128| 12345
+2| Fernanda| Gutiérrez| Salazar| +525556667777| fer@gmail.com| Calle Alguna| Alguna Colonia| 214| 12345
+3| Alberto| Sánchez| Rodríguez| +526667778888| alberto@gmail.com| Calle Algún lado| Cualquier Colonia| 128| 12345
+4| Pedro| Ortega| Ramírez| +527778899101| pedro@gmail.com| Dir| Col| 5| 123456
+7| Juan| Perez| Zigueña| +527778899101| pedro@gmail.com| Dir| Col| 5| 123456
+8| Prueba| Apellido| Apellido| +524492635294| alguien@gmail.com| Dirección| Colonia| 284| 11111

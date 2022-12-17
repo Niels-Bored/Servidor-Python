@@ -1,0 +1,5 @@
+1| Pulgas| Labrador| Beige| 5| Se escapó por la reja| 01-11-2022| 14-11-2022| 1
+2| Suga| Balinés| Blanco| 3| Se escapó por la ventana| 07-11-2022| 18-11-2022| 3
+4| Paco| Terrier| Color| 5| Lo extraño| 2022-11-01| 2022-11-16| 3
+6| Prueba 2| Raza| C0l0r| 3| Alguna descripcion| 2022-11-01| 2022-11-11| 2
+7| Chuy| Pastor Alemán| Negro| 2| Se escapó por la cochera| 2022-11-01| 2022-11-16| 3
